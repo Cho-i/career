@@ -4,7 +4,7 @@
 
 html,
 body {
-  @apply font-sans bg-white text-gray-700;
+  @apply font-sans bg-white text-gray-700 break-words;
 
   li,ol {
     @apply list-none;
