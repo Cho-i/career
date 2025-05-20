@@ -4,7 +4,7 @@ function Contact() {
   return (
     <div id="contact">
       <div className="flex gap-3 items-center justify-center flex-wrap">
-        <img src="./public/images/profile.jpg" alt="profile" className="w-[200px] aspect-square rounded-full" />
+        <img src="/images/profile.png" alt="profile" className="w-[200px] aspect-square rounded-full" />
         <div className="flex-1">
           <h3>Contact.</h3>
           <p>Name. <strong>이초이</strong></p>
